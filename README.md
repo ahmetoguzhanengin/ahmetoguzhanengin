@@ -66,10 +66,11 @@ Today I build products **end to end**: product thinking, UI, mobile and web apps
 ### 🤝 Clients I've built websites for
 
 <p align="center">
-  <a href="https://ozdenmakina.com"><img src="assets/ozden.png" width="200" alt="Özden İş Makineleri"/></a>&nbsp;
-  <a href="https://2atasarim.com"><img src="assets/2a.png" width="200" alt="2A Tasarım"/></a>&nbsp;
-  <a href="https://nefahsap.com"><img src="assets/nef.png" width="200" alt="Nef Ahşap"/></a>&nbsp;
-  <a href="https://levhateknikyapi.com"><img src="assets/levha.png" width="200" alt="Levha Teknik Yapı"/></a>
+  <a href="https://ozdenmakina.com"><img src="assets/ozden.png" width="150" alt="Özden İş Makineleri"/></a>&nbsp;
+  <a href="https://2atasarim.com"><img src="assets/2a.png" width="150" alt="2A Tasarım"/></a>&nbsp;
+  <a href="https://nefahsap.com"><img src="assets/nef.png" width="150" alt="Nef Ahşap"/></a>&nbsp;
+  <a href="https://levhateknikyapi.com"><img src="assets/levha.png" width="150" alt="Levha Teknik Yapı"/></a>&nbsp;
+  <a href="https://duhatrade.com"><img src="assets/duha.png" width="150" alt="Duha Trade"/></a>
 </p>
 
 ---
