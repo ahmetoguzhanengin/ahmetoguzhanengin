@@ -68,7 +68,7 @@ Today I build products **end to end**: product thinking, UI, mobile and web apps
 <p align="center">
   <a href="https://ozdenmakina.com"><img src="assets/ozden.png" width="210" alt="Özden İş Makineleri"/></a>&nbsp;
   <a href="https://2atasarim.com"><img src="assets/2a.png" width="210" alt="2A Tasarım"/></a>&nbsp;
-  <a href="https://nefahsap.com"><img src="assets/nef.png" width="210" alt="Nef Ahşap"/></a>
+  <a href="https://nefahsap.com"><img src="assets/nef-ahsap.png" width="210" alt="Nef Ahşap"/></a>
   <br/><br/>
   <a href="https://levhateknikyapi.com"><img src="assets/levha.png" width="210" alt="Levha Teknik Yapı"/></a>&nbsp;
   <a href="https://duhatrade.com"><img src="assets/duha.png" width="210" alt="Duha Trade"/></a>&nbsp;
