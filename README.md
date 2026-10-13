@@ -54,10 +54,11 @@ Today I build products **end to end**: product thinking, UI, mobile and web apps
     </td>
   </tr>
   <tr>
-    <td align="center">🔬</td>
+    <td align="center"><img src="assets/lookus.png" width="150" alt="LookUs Scientific"/></td>
     <td>
-      <b>Frontend Developer</b> · LookUs Scientific · <i>2023</i><br/>
-      React frontend work for a scientific/medical technology company.
+      <b>Frontend Developer</b> · <a href="https://www.lookus.net">LookUs Scientific</a> · <i>2023</i><br/>
+      React frontend work at a company building software for academic publishing and conference organizers, including JournalAgent, a peer-review and publishing system for academic journals.<br/>
+      <sub>React · JavaScript</sub>
     </td>
   </tr>
 </table>
