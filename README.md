@@ -66,13 +66,14 @@ Today I build products **end to end**: product thinking, UI, mobile and web apps
 ### 🤝 Clients I've built websites for
 
 <p align="center">
-  <a href="https://ozdenmakina.com"><img src="assets/ozden.png" width="210" alt="Özden İş Makineleri"/></a>&nbsp;
-  <a href="https://2atasarim.com"><img src="assets/2a.png" width="210" alt="2A Tasarım"/></a>&nbsp;
-  <a href="https://nefahsap.com"><img src="assets/nef-ahsap.png" width="210" alt="Nef Ahşap"/></a>
+  <a href="https://ozdenmakina.com"><img src="assets/ozden.png" width="180" alt="Özden İş Makineleri"/></a>&nbsp;
+  <a href="https://2atasarim.com"><img src="assets/2a.png" width="180" alt="2A Tasarım"/></a>&nbsp;
+  <a href="https://nefahsap.com"><img src="assets/nef-ahsap.png" width="180" alt="Nef Ahşap"/></a>&nbsp;
+  <a href="https://levhateknikyapi.com"><img src="assets/levha.png" width="180" alt="Levha Teknik Yapı"/></a>
   <br/><br/>
-  <a href="https://levhateknikyapi.com"><img src="assets/levha.png" width="210" alt="Levha Teknik Yapı"/></a>&nbsp;
-  <a href="https://duhatrade.com"><img src="assets/duha.png" width="210" alt="Duha Trade"/></a>&nbsp;
-  <a href="https://www.kfkmetal.com"><img src="assets/kfk.png" width="210" alt="KFK Metal"/></a>
+  <a href="https://duhatrade.com"><img src="assets/duha.png" width="180" alt="Duha Trade"/></a>&nbsp;
+  <a href="https://www.kfkmetal.com"><img src="assets/kfk.png" width="180" alt="KFK Metal"/></a>&nbsp;
+  <a href="https://merveyeser.com"><img src="assets/merve.png" width="180" alt="Merve Yeşer"/></a>
 </p>
 
 ---
