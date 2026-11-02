@@ -34,8 +34,8 @@ Today I build products **end to end**: product thinking, UI, mobile and web apps
   <tr>
     <td align="center"><img src="assets/collabry.png" width="150" alt="Collabry"/></td>
     <td>
-      <b>Fullstack Software Developer</b> · Collabry.io · <i>2023 → present</i><br/>
-      I build consumer and B2B mobile/web products end to end. Three of my apps are live on <b>both the App Store and Google Play</b>:
+      <b>Fullstack Software Developer</b> · Collabry.io · <i>2023 → 2026</i><br/>
+      Built consumer and B2B mobile/web products end to end. Three of my apps are live on <b>both the App Store and Google Play</b>:
       <ul>
         <li><b>Şantiye Defteri</b>: construction-site management. Offline-first, PDF/Excel reporting, multi-site, personnel/equipment/expense tracking.</li>
         <li><b>Tutanak Yönetim Sistemi</b>: AI-supported report management. LLM-generated descriptions, photo and location data, company admin, approval workflows.</li>
