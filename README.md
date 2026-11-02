@@ -25,7 +25,14 @@ Today I build products **end to end**: product thinking, UI, mobile and web apps
 
 <table>
   <tr>
-    <td width="170" align="center"><img src="assets/collabry.png" width="150" alt="Collabry"/></td>
+    <td width="170" align="center"><img src="assets/aime.png" width="150" alt="AIME"/></td>
+    <td>
+      <b>Software Developer</b> · <a href="https://aime.com.tr">AIME</a> · <i>Nov 2026 → present</i><br/>
+      Software developer at an AI company building an enterprise platform for agentic AI: model-agnostic LLM agents that connect to company data and automate workflows. It's the same multi-agent territory as my M.Sc. research.
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/collabry.png" width="150" alt="Collabry"/></td>
     <td>
       <b>Fullstack Software Developer</b> · Collabry.io · <i>2023 → present</i><br/>
       I build consumer and B2B mobile/web products end to end. Three of my apps are live on <b>both the App Store and Google Play</b>:
